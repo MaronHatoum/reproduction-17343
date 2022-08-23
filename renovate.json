@@ -1,0 +1,4 @@
+{
+    "extends": ["github>whitesource/merge-confidence:beta",":disableRateLimiting"],
+    "prCreation": "not-pending"
+}
